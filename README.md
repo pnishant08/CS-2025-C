@@ -1,41 +1,175 @@
 # CS-2025-C
-This repository contains the details of major project created by the students of 2024 Batch at Computer Science Department, KIET Ghaziabad.
+This repository contains the details of major project created by the students of 2024 Batch at Computer Science Department, KIET Ghaziabad.<br>
 
-#NOTE
+<b>#NOTE</b><br>
 This repository contains the details of students under following faculty mentor only.
+<ul>
+<li>Mr. Vivek Kumar Sharma</li>
+<li>Ms. Shivani</li>
+<li>Mr. Anmol Jain</li>
+<li>Mr. Pawan Kumar Pal</li>
+<li>Mr. Puneet Kumar Goyal</li>
+<li>Mr. Pardeep Tyagi</li>
+<li>Mr. Rahul Kumar</li>
+<li>Mr. Vinay Pratap Singh</li>
+  </ul>
+<b>#How to access</b><br>
+<ol>
+  <li>The student first need to fork the designated folder on their account and do all updation there.</li>
+  <li>Once the updation is done, the student needs to generate the pull request (PR) in this repository</li>
+  <li>Make sure you work in the alloted folder only</li>
+  <li>The pull request would be accepted only after the approval of faculty mentor.</li>
+  <li>The faculty mentor needs to accept the pull request after evaluating only.</li>
+ </ol>
 
-Mr. Vivek Kumar Sharma
-Ms. Shivani
-Mr. Anmol Jain
-Mr. Pawan Kumar Pal
-Mr. Puneet Kumar Goyal
-Mr. Pardeep Tyagi
-Mr. Rahul Kumar
-Mr. Vinay Pratap Singh
-#How to access
-
-The student first need to fork the designated folder on their account and do all updation there.
-Once the updation is done, the student needs to generate the pull request (PR) in this repository
-Make sure you work in the alloted folder only
-The pull request would be accepted only after the approval of faculty mentor.
-The faculty mentor needs to accept the pull request after evaluating only.
-#Student Data
-Folders of following project Ids has been created.
-
-Serial No	Project ID	Guide Name
-1	PCS25-25	Mr. Vivek Kumar Sharma
-2	PCS25-32	Mr. Vivek Kumar Sharma
-3	PCS25-33	Mr. Vivek Kumar Sharma
-4	PCS25-53	Mr. Vivek Kumar Sharma
-5	PCS25-43	Ms. Shivani
-6	PCS25-44	Ms. Shivani
-7	PCS25-45	Ms. Shivani
-8	PCS25-54	Ms. Shivani
-9	PCS25-34	Mr. Anmol Jain
-10	PCS25-40	Mr. Pawan Kumar Pal
-11	PCS25-41	Mr. Pawan Kumar Pal
-12	PCS25-37	Mr. Pardeep Tyagi
-13	PCS25-38	Mr. Pardeep Tyagi
-14	PCS25-39	Mr. Pardeep Tyagi
-15	PCS25-50	Mr. Pardeep Tyagi
-16	PCS25-65	Mr. Rahul Kumar
+<b>#Student Data</b><br>
+Folders of following project Ids has been created.<br>
+<table border="1">
+  <thead>
+    <tr>
+      <th>Serial No</th>
+      <th>Project ID</th>
+      <th>Guide Name</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td></td> <!-- Blank Serial No for the first blank row -->
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>PCS25-25</td>
+      <td>Mr. Vivek Kumar Sharma</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>PCS25-32</td>
+      <td>Mr. Vivek Kumar Sharma</td>
+    </tr>
+    <tr>
+      <td></td> <!-- Blank Serial No for the second blank row -->
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>PCS25-33</td>
+      <td>Mr. Vivek Kumar Sharma</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>PCS25-53</td>
+      <td>Mr. Vivek Kumar Sharma</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>PCS25-43</td>
+      <td>Ms. Shivani</td>
+    </tr>
+    <tr>
+      <td></td> <!-- Blank Serial No for the third blank row -->
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>PCS25-44</td>
+      <td>Ms. Shivani</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>PCS25-45</td>
+      <td>Ms. Shivani</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>PCS25-54</td>
+      <td>Ms. Shivani</td>
+    </tr>
+<tr>
+    <td>9</td>
+    <td>PCS25-34</td>
+    <td>Mr. Anmol Jain</td>
+</tr>
+<tr>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr>
+<tr>
+    <td>10</td>
+    <td>PCS25-40</td>
+    <td>Mr. Pawan Kumar Pal</td>
+</tr>
+<tr>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr>
+<tr>
+    <td>11</td>
+    <td>PCS25-41</td>
+    <td>Mr. Pawan Kumar Pal</td>
+</tr>
+<tr>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr>
+<tr>
+    <td>12</td>
+    <td>PCS25-37</td>
+    <td>Mr. Pardeep Tyagi</td>
+</tr>
+<tr>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr>
+<tr>
+    <td>13</td>
+    <td>PCS25-38</td>
+    <td>Mr. Pardeep Tyagi</td>
+</tr>
+<tr>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr>
+<tr>
+    <td>14</td>
+    <td>PCS25-39</td>
+    <td>Mr. Pardeep Tyagi</td>
+</tr>
+<tr>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr>
+<tr>
+    <td>15</td>
+    <td>PCS25-50</td>
+    <td>Mr. Pardeep Tyagi</td>
+</tr>
+<tr>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr>
+<tr>
+    <td>16</td>
+    <td>PCS24-43</td>
+    <td>Mr. Rahul Kumar</td>
+</tr>
+<tr>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr>
+<tr>
+    <td>17</td>
+    <td>PCS25-65</td>
+    <td>Mr. Abhishek Goyal</td>
+</tr>
