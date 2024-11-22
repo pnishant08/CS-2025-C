@@ -4,14 +4,13 @@ This repository contains the details of major project created by the students of
 <b>#NOTE</b><br>
 This repository contains the details of students under following faculty mentor only.
 <ul>
-<li>Mr. Vivek Kumar Sharma</li>
-<li>Ms. Shivani</li>
-<li>Mr. Anmol Jain</li>
-<li>Mr. Pawan Kumar Pal</li>
-<li>Mr. Puneet Kumar Goyal</li>
-<li>Mr. Pardeep Tyagi</li>
-<li>Mr. Rahul Kumar</li>
-<li>Mr. Vinay Pratap Singh</li>
+<li>Prof. Anmol Jain</li>
+<li>Prof. Arushi Gupta</li>
+<li>Prof. Neha Shukla</li>
+<li>Dr. Kalpana sagar</li>
+<li>Prof. Shivani</li>
+<li>Prof. Sreesh Gaur</li>
+<li>Prof. Arti Sharma</li>
   </ul>
 <b>#How to access</b><br>
 <ol>
@@ -40,13 +39,13 @@ Folders of following project Ids has been created.<br>
     </tr>
     <tr>
       <td>1</td>
-      <td>PCS25-25</td>
-      <td>Mr. Vivek Kumar Sharma</td>
+      <td>PCS25-34</td>
+      <td>Prof. Anmol Jain</td>
     </tr>
     <tr>
       <td>2</td>
-      <td>PCS25-32</td>
-      <td>Mr. Vivek Kumar Sharma</td>
+      <td>PCS25-35</td>
+      <td>Prof. Arushi Gupta</td>
     </tr>
     <tr>
       <td></td> <!-- Blank Serial No for the second blank row -->
@@ -55,18 +54,18 @@ Folders of following project Ids has been created.<br>
     </tr>
     <tr>
       <td>3</td>
-      <td>PCS25-33</td>
-      <td>Mr. Vivek Kumar Sharma</td>
+      <td>PCS25-36</td>
+      <td>Prof. Neha Shukla</td>
     </tr>
     <tr>
       <td>4</td>
-      <td>PCS25-53</td>
-      <td>Mr. Vivek Kumar Sharma</td>
+      <td>PCS25-39</td>
+      <td>Dr. kalpana Sagar</td>
     </tr>
     <tr>
       <td>5</td>
-      <td>PCS25-43</td>
-      <td>Ms. Shivani</td>
+      <td>PCS25-48</td>
+      <td>Dr. Kalpana Sagar</td>
     </tr>
     <tr>
       <td></td> <!-- Blank Serial No for the third blank row -->
@@ -75,23 +74,23 @@ Folders of following project Ids has been created.<br>
     </tr>
     <tr>
       <td>6</td>
-      <td>PCS25-44</td>
-      <td>Ms. Shivani</td>
+      <td>PCS25-40</td>
+      <td>Prof. Shivani</td>
     </tr>
     <tr>
       <td>7</td>
-      <td>PCS25-45</td>
-      <td>Ms. Shivani</td>
+      <td>PCS25-41</td>
+      <td>Prof. Shivani</td>
     </tr>
     <tr>
       <td>8</td>
-      <td>PCS25-54</td>
-      <td>Ms. Shivani</td>
+      <td>PCS25-42</td>
+      <td>Prof. Shivani</td>
     </tr>
 <tr>
     <td>9</td>
-    <td>PCS25-34</td>
-    <td>Mr. Anmol Jain</td>
+    <td>PCS25-49</td>
+    <td>Prof. Shivani</td>
 </tr>
 <tr>
     <td></td>
@@ -100,8 +99,8 @@ Folders of following project Ids has been created.<br>
 </tr>
 <tr>
     <td>10</td>
-    <td>PCS25-40</td>
-    <td>Mr. Pawan Kumar Pal</td>
+    <td>PCS25-43</td>
+    <td>Prof. Sreesh Gaur</td>
 </tr>
 <tr>
     <td></td>
@@ -110,8 +109,8 @@ Folders of following project Ids has been created.<br>
 </tr>
 <tr>
     <td>11</td>
-    <td>PCS25-41</td>
-    <td>Mr. Pawan Kumar Pal</td>
+    <td>PCS25-44</td>
+    <td>Prof. Sreesh Gaur</td>
 </tr>
 <tr>
     <td></td>
@@ -120,8 +119,8 @@ Folders of following project Ids has been created.<br>
 </tr>
 <tr>
     <td>12</td>
-    <td>PCS25-37</td>
-    <td>Mr. Pardeep Tyagi</td>
+    <td>PCS25-45</td>
+    <td>Prof. Sreesh Gaur</td>
 </tr>
 <tr>
     <td></td>
@@ -130,8 +129,8 @@ Folders of following project Ids has been created.<br>
 </tr>
 <tr>
     <td>13</td>
-    <td>PCS25-38</td>
-    <td>Mr. Pardeep Tyagi</td>
+    <td>PCS25-54</td>
+    <td>Prof. Sreesh Gaur</td>
 </tr>
 <tr>
     <td></td>
@@ -140,8 +139,8 @@ Folders of following project Ids has been created.<br>
 </tr>
 <tr>
     <td>14</td>
-    <td>PCS25-39</td>
-    <td>Mr. Pardeep Tyagi</td>
+    <td>PCS25-13</td>
+    <td>Prof. Arti Sharma</td>
 </tr>
 <tr>
     <td></td>
@@ -150,8 +149,8 @@ Folders of following project Ids has been created.<br>
 </tr>
 <tr>
     <td>15</td>
-    <td>PCS25-50</td>
-    <td>Mr. Pardeep Tyagi</td>
+    <td>PCS25-14</td>
+    <td>Prof. Arti Sharma</td>
 </tr>
 <tr>
     <td></td>
@@ -160,8 +159,8 @@ Folders of following project Ids has been created.<br>
 </tr>
 <tr>
     <td>16</td>
-    <td>PCS25-65</td>
-    <td>Mr. Rahul Kumar</td>
+    <td>PCS25-57</td>
+    <td>Prof. Arti Sharma</td>
 </tr>
 <tr>
     <td></td>
